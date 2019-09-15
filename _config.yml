@@ -1,7 +1,7 @@
 # Site settings
 title: Dark Side of the Moon
-SEOTitle: Ming Yeh's Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: Dark Side of the Moon | Ming Yeh's Blog
+header-img: img/post-bg-mingyeh.jpg
 email: mingyeh1979@hotmail.com
 description: "Wubba Lubba Dub Dub."
 keyword: "Ming Yeh, python, filmphotography"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/mingyeh/mingyeh.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Saure Arbeit, süßer Schlaf."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/a258345.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: mingyeh.github.io    #仓库名称
+  owner: mingyeh    #github用户名
+  admin: mingyeh
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
